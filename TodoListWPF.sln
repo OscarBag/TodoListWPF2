@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoListWPF", "TodoListWPF\TodoListWPF.csproj", "{4CB93490-9A32-4665-BAC5-75BC956307EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingToDoList", "TestingToDoList\TestingToDoList.csproj", "{E6D2D64C-595B-48F2-AAE0-C4D7846DB5F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB93490-9A32-4665-BAC5-75BC956307EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB93490-9A32-4665-BAC5-75BC956307EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB93490-9A32-4665-BAC5-75BC956307EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB93490-9A32-4665-BAC5-75BC956307EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D2D64C-595B-48F2-AAE0-C4D7846DB5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D2D64C-595B-48F2-AAE0-C4D7846DB5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D2D64C-595B-48F2-AAE0-C4D7846DB5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D2D64C-595B-48F2-AAE0-C4D7846DB5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6515AD57-7616-43D8-806A-C3A26315AF13}
+	EndGlobalSection
+EndGlobal
